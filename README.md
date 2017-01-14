@@ -23,7 +23,7 @@ Redux作者教你学习redux，强烈推荐跟着视频刷一遍。让你能理�
 * [Redux 入门教程 - 阮一峰](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
 * [Redux 简明教程](https://github.com/kenberkeley/redux-simple-tutorial)
 * [看漫画，学Redux](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)
-* [一步一步创建 React_Redux 应用指南](hhttps://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.xrl0339vm) ([中文版](http://www.jb51.net/books/499304.html)) <b>推荐</b>
+* [一步一步创建 React_Redux 应用指南](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.xrl0339vm) ([中文版](http://www.jb51.net/books/499304.html)) <b>推荐</b>
 * [Redux官方文档](http://redux.js.org/) ([中文版](http://cn.redux.js.org/))
 
 ### 学习项目
